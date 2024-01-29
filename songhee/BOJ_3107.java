@@ -8,7 +8,7 @@ class BOJ_3107{
 
         String original = br.readLine();
         if(original.contains("::")) {
-            original = original.replace("::", ":zero:");
+            original = original.replace("::", ":notN:");
         }
         String [] arr = original.split(":");
 
@@ -38,7 +38,7 @@ class BOJ_3107{
 
             String a = answerList.get(i);
 
-            if(a.equals("zero")) {
+            if(a.equals("notN")) {
                 while(size-->0) {
                     answer[idx++] = "0000";
                 }
