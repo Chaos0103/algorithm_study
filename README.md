@@ -29,18 +29,6 @@
             <br/>
         </td>
         <td align="center">
-            <a href="https://github.com/jia5232">
-                <img src="https://avatars.githubusercontent.com/jia5232" width="100px;" alt=""/>
-                <br/>
-                <sub>
-                    <b>권지아</b>
-                    <br/>
-                    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
-                </sub>
-            </a>
-            <br/>
-        </td>
-        <td align="center">
             <a href="https://github.com/MinchaeKwon">
                 <img src="https://avatars.githubusercontent.com/MinchaeKwon" width="100px;" alt=""/>
                 <br/>
@@ -53,7 +41,7 @@
             <br/>
         </td>
 	<td align="center">
-            <a href="https://github.com/MinchaeKwon">
+            <a href="https://github.com/songhee1">
                 <img src="https://avatars.githubusercontent.com/songhee1" width="100px;" alt=""/>
                 <br/>
                 <sub>
