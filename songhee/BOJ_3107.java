@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-class Main{
+class BOJ_3107{
     public static void main(String args[]) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
