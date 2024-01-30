@@ -97,3 +97,24 @@ git commit -m "Hello World / 1분"
 	* 왜 이렇게 풀었는지 궁금한 부분
 	* 또 다른 풀이 방식 제시
 * 코드의 일부에다가 코드리뷰를 해도 되고 전체 코드 밑 또는 PR 하나 밑에다 코멘트 작성으로 리뷰를 해도 됩니다.
+
+# ✅ 문제
+<table>
+    <thead>
+    <tr style="text-align: center">
+        <th>일자</th><th>문제출처</th><th>문제번호</th><th>문제명</th><th>레벨</th><th>출제자</th><th>문제링크</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr style="text-align: center">
+        <td>24.01.29</td>
+        <td>BOJ</td><td>3107</td><td>IPv6</td><td>골드5</td><td>박무현</td>
+        <td><a href="https://www.acmicpc.net/problem/3107">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>24.01.30</td>
+        <td>BOJ</td><td>2671</td><td>잠수함식별</td><td>골드5</td><td>최송희</td>
+        <td><a href="https://www.acmicpc.net/problem/2671">바로가기</a></td>
+    </tr>
+    </tbody>
+</table>
