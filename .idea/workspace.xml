@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="056571e5-aabd-4df5-8ecb-d2f07427fd29" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/songhee/BOJ_9935.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/songhee/BOJ_3107.java" beforeDir="false" afterPath="$PROJECT_DIR$/songhee/BOJ_3107.java" afterDir="false" />
-    </list>
+    <list default="true" id="056571e5-aabd-4df5-8ecb-d2f07427fd29" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1706530526434</updated>
       <workItem from="1706530527505" duration="157000" />
-      <workItem from="1706530708799" duration="3544000" />
+      <workItem from="1706530708799" duration="4601000" />
     </task>
     <servers />
   </component>
