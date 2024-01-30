@@ -116,5 +116,10 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>2671</td><td>잠수함식별</td><td>골드5</td><td>최송희</td>
         <td><a href="https://www.acmicpc.net/problem/2671">바로가기</a></td>
     </tr>
+    <tr style="text-align: center">
+        <td>24.01.31</td>
+        <td>BOJ</td><td>2800</td><td>괄호 제거</td><td>골드5</td><td>권민채</td>
+        <td><a href="https://www.acmicpc.net/problem/2800">바로가기</a></td>
+    </tr>
     </tbody>
 </table>
