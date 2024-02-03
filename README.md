@@ -131,5 +131,10 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>20437</td><td>문자열 게임 2</td><td>골드5</td><td>최송희</td>
         <td><a href="https://www.acmicpc.net/problem/20437">바로가기</a></td>
     </tr>
+    <tr style="text-align: center">
+        <td>24.02.04</td>
+        <td>BOJ</td><td>6443</td><td>애너그램</td><td>골드5</td><td>권민채</td>
+        <td><a href="https://www.acmicpc.net/problem/6443">바로가기</a></td>
+    </tr>
     </tbody>
 </table>
