@@ -141,5 +141,15 @@ git commit -m "Hello World / 1분"
         <td>BOJ</td><td>2608</td><td>로마 숫자</td><td>골드5</td><td>임우택</td>
         <td><a href="https://www.acmicpc.net/problem/2608">바로가기</a></td>
     </tr>
+    <tr style="text-align: center">
+        <td>24.02.06</td>
+        <td>BOJ</td><td>2504</td><td>괄호의 값</td><td>골드5</td><td>최송희</td>
+        <td><a href="https://www.acmicpc.net/problem/2504">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>24.02.07</td>
+        <td>BOJ</td><td>3425</td><td>고스택</td><td>골드4</td><td>권민채</td>
+        <td><a href="https://www.acmicpc.net/problem/3425">바로가기</a></td>
+    </tr>
     </tbody>
 </table>
