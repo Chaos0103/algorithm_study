@@ -17,18 +17,6 @@
             <br/>
         </td>
         <td align="center">
-            <a href="https://github.com/parkmuhyeun">
-                <img src="https://avatars.githubusercontent.com/parkmuhyeun" width="100px;" alt=""/>
-                <br/>
-                <sub>
-                    <b>박무현</b>
-                    <br/>
-                    <img src="https://us-central1-progress-markdown.cloudfunctions.net/progress/100"/>
-                </sub>
-            </a>
-            <br/>
-        </td>
-        <td align="center">
             <a href="https://github.com/MinchaeKwon">
                 <img src="https://avatars.githubusercontent.com/MinchaeKwon" width="100px;" alt=""/>
                 <br/>
@@ -150,6 +138,11 @@ git commit -m "Hello World / 1분"
         <td>24.02.07</td>
         <td>BOJ</td><td>3425</td><td>고스택</td><td>골드4</td><td>권민채</td>
         <td><a href="https://www.acmicpc.net/problem/3425">바로가기</a></td>
+    </tr>
+    <tr style="text-align: center">
+        <td>24.02.08</td>
+        <td>BOJ</td><td>6198</td><td>옥상 정원 꾸미기</td><td>골드5</td><td>임우택</td>
+        <td><a href="https://www.acmicpc.net/problem/6198">바로가기</a></td>
     </tr>
     </tbody>
 </table>
