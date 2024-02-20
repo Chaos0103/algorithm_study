@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-class Solution5 {
+class BOJ_20956 {
     static class IceCream{
         int amount;
         int num;
