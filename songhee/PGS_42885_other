@@ -1,0 +1,53 @@
+import java.util.*;
+class PGS_42885 {
+    public int solution(int[] people, int limit) {
+        int answer = 0;
+
+        Arrays.sort(people);
+        int sum = 0;
+        int peopleNum = 0;
+        Deque<Integer> d = new LinkedList<>();
+        for(int i=0;i<people.length;i++){
+            d.add(people[i]);
+        }
+        int[] mix = new int[people.length];
+        boolean flag = false;
+        for(int i=0;i<people.length;i++){
+            if(!flag){
+                mix[i] = d.removeFirst();
+                flag = true;
+            }else{
+                mix[i] = d.removeLast();
+                flag = false;
+            }
+            System.out.print("mix[i] : "+ mix[i]+", ");
+        }
+        System.out.println();
+
+        for(int i=0;i<people.length;i++){
+            sum += mix[i];
+            peopleNum++;
+            if(sum == limit){
+                answer++;
+                sum = 0;
+                peopleNum = 0;
+            }else if(sum > limit){
+                answer += 2;
+                sum = 0;
+                peopleNum = 0;
+            }
+
+            if(peopleNum == 2){
+                peopleNum = 0;
+                sum = 0;
+                answer++;
+            }
+        }
+
+        if(sum > 0){
+            answer++;
+        }
+
+        return answer;
+    }
+}
